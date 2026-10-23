@@ -18,67 +18,51 @@
 
 ### 🛠️ Languages and Tools
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Programming & Data Science:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
-  <a href="https://www.sql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Data Science & Data Analysis:</h3>
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/></a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/></a>
+  <a href="https://scipy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Machine Learning & Deep Learning:</h3>
 <p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Natural Language Processing (NLP):</h3>
 <p align="left">
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" alt="spaCy" width="40" height="40"/></a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://www.nltk.org/images/nltk.png" alt="NLTK" width="40" height="40"/></a>
-  <a href="https://huggingface.co/docs/transformers/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" width="40" height="40"/></a>
+  <a href="https://spacy.io/" target="_blank"><img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" alt="spaCy" width="40" height="40"/></a>
+  <a href="https://www.nltk.org/" target="_blank"><img src="https://www.nltk.org/images/nltk.png" alt="NLTK" width="40" height="40"/></a>
+  <a href="https://huggingface.co/docs/transformers/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Transformers" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">3D Visualization & Scientific Computing:</h3>
 <p align="left">
-  <a href="https://pyvista.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pyvista/pyvista/main/doc/source/_static/pyvista_logo_sm.png" alt="PyVista" width="40" height="40"/></a>
-  <a href="https://vtk.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Kitware/VTK/master/Documentation/docs/images/vtk_logo.png" alt="VTK" width="40" height="40"/></a>
-  <a href="https://www.vtk.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/></a>
+  <a href="https://pyvista.org/" target="_blank"><img src="https://raw.githubusercontent.com/pyvista/pyvista/main/doc/source/_static/pyvista_logo_sm.png" alt="PyVista" width="40" height="40"/></a>
+  <a href="https://vtk.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vtk/vtk-original.svg" alt="VTK" width="40" height="40"/></a>
+  <a href="https://plotly.com/python/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Graph Machine Learning:</h3>
 <p align="left">
-  <a href="https://www.dgl.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dmlc/dgl/master/docs/source/_static/dgl_logo.png" alt="Deep Graph Library" width="40" height="40"/></a>
-  <a href="https://pytorch-geometric.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pyg-team/pytorch_geometric/master/docs/source/_static/img/pyg_logo.svg" alt="PyTorch Geometric" width="40" height="40"/></a>
-  <a href="https://networkx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/networkx_logo.svg" alt="NetworkX" width="40" height="40"/></a>
+  <a href="https://networkx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" alt="NetworkX" width="40" height="40"/></a>
+  <a href="https://pytorch-geometric.readthedocs.io/" target="_blank"><img src="https://raw.githubusercontent.com/pyg-team/pytorch_geometric/master/docs/source/_static/img/pyg_logo.svg" alt="PyTorch Geometric" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Development Tools & Platforms:</h3>
+<h3 align="left">Development & Research Tools:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nada-elkamel&show_icons=true&locale=en&layout=compact" alt="nada-elkamel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nada-elkamel&show_icons=true&locale=en" alt="nada-elkamel" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nada-elkamel&" alt="nada-elkamel" /></p>
