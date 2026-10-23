@@ -1,7 +1,7 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/04/35/31/47/360_F_435314769_TXsKQ6aQfoHMZJfGcXtaXhyoY7iHK3ld.jpg)](https://Nada-elkamel.io)
 
 <h1 align="center">Hi 👋, I'm Nada EL KAMEL</h1>
-<h3 align="center">A passionate backend developer from Tunisia</h3>
+<h3 align="center">A passionate data science from Tunisia</h3>
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/c8/07/46/c80746d8b7d4e091fab55bcf81e9cdda.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-elkamel&label=Profile%20views&color=0e75b6&style=flat" alt="nada-elkamel" /> </p>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [nada-elkamel.me](nada-elkamel.me)
 
-- 📫 How to reach me **nadaelkamel21@gmail.com**
+- 📫 How to reach me **elkamelnada8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
